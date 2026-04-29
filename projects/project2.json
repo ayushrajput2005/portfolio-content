@@ -1,0 +1,10 @@
+{
+  "id": "demo-project-2",
+  "title": "Demo Backend System",
+  "description": "A demo backend application showcasing authentication, API design, and data handling. Built as a placeholder project for portfolio testing.",
+  "tech": ["Java", "Spring Boot", "MySQL", "JPA"],
+  "github": "https://github.com/demo-user/demo-backend",
+  "live": "https://demo-project-live.com",
+  "status": "shipped",
+  "featured": true
+}
