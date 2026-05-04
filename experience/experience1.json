@@ -1,15 +1,15 @@
 {
-  "id": "backend-intern",
-  "title": "Backend Developer",
-  "company": "Startup Name",
-  "start": "2025-01",
+  "id": "GDG Member",
+  "title": "GDG Community Member",
+  "company": "Google Developers Group",
+  "start": "2025-06",
   "end": "Present",
-  "description": "Designed and built backend systems including authentication, cart/order flows, and REST APIs using Spring Boot.",
+  "description": "Working as Member of GDG Community in Android Development Domain",
   "highlights": [
-    "Built JWT-based authentication system",
-    "Designed cart → order → inventory flow",
-    "Worked with MySQL + JPA for persistence"
+    "Work on Community Projects Focused on Mobile App Development",
+    "Learned and Practice Production Workflows in Android App Development",
+    "Worked with Android SDK , Flutter , Firebase , Dart , Kotlin"
   ],
-  "tech": ["Java", "Spring Boot", "MySQL", "JPA"],
-  "type": "work"
+  "tech": ["Android SDK", "Dart", "Flutter", "Firebase" ,"Kotlin"],
+  "type": "Community Member"
 }

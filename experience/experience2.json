@@ -1,15 +1,15 @@
 {
-  "id": "backend-intern",
-  "title": "Backend Developer",
-  "company": "Freelance",
-  "start": "2025-01",
-  "end": "Present",
-  "description": "Designed and built backend systems including authentication, cart/order flows, and REST APIs using Spring Boot.",
+  "id": "SIH 2025",
+  "title": "SIH 2025 Hackathon Finalist",
+  "company": "Smart India Hackathon 2025",
+  "start": "2025-10",
+  "end": "2025-12",
+  "description": "Led Frontend and Design for team-based project",
   "highlights": [
-    "Built JWT-based authentication system",
-    "Designed cart → order → inventory flow",
-    "Worked with MySQL + JPA for persistence"
+    "Built 'FasalMitra' : Online Marketplace For Farmers with AI Assisted Trades and Blockchain Based Payment Systems",
+    "Designed and Implemented Frontend For Entire Application",
+    "Worked With Flutter / Dart to Design Web and Mobile Application"
   ],
-  "tech": ["Java", "Spring Boot", "MySQL", "JPA"],
-  "type": "work"
+  "tech": ["Android SDK", "Dart", "Flutter", "HiveDB" ,"Firebase"],
+  "type": "Frontend Developer"
 }

@@ -1,0 +1,15 @@
+{
+  "id": "Hackathons",
+  "title": "Multiple Hackathons",
+  "company": "Self-initiated Projects",
+  "start": "2026-01",
+  "end": "2026-04",
+  "description": "Participated in multiple hackathons (Jan 2026 – Apr 2026) , Worked As Backend Developer , And UI Designer Across Projects",
+  "highlights": [
+    "Built Backend Application With Authentication , Persistance , Microservices",
+    "Used Production Practice , Handled Horizontal Scaling and Deployments With Multiple Instance Hosting",
+    "Worked With Java , Spring Boot , Hibernate , Cloudinary, Docker , Nginx , Redis cache , AWS"
+  ],
+  "tech": ["Java", "Spring Boot", "Hibernate", "Nginx" ,"Docker" , "Redis"],
+  "type": "Backend Developer"
+}
