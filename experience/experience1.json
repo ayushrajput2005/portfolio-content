@@ -1,0 +1,15 @@
+{
+  "id": "backend-intern",
+  "title": "Backend Developer",
+  "company": "Startup Name",
+  "start": "2025-01",
+  "end": "Present",
+  "description": "Designed and built backend systems including authentication, cart/order flows, and REST APIs using Spring Boot.",
+  "highlights": [
+    "Built JWT-based authentication system",
+    "Designed cart → order → inventory flow",
+    "Worked with MySQL + JPA for persistence"
+  ],
+  "tech": ["Java", "Spring Boot", "MySQL", "JPA"],
+  "type": "work"
+}
