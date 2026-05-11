@@ -1,0 +1,10 @@
+{
+  "id": "sandcanvas",
+  "title": "SandCanvas",
+  "description": "A browser-based falling sand simulation built using HTML, CSS, and JavaScript. Inspired by cellular automata concepts, the project simulates particle behavior and interactions in real time directly on the canvas.",
+  "tech": ["HTML", "CSS", "JavaScript", "Canvas API"],
+  "github": "https://github.com/ayushrajput2005/sandcanvas",
+  "live": "https://sandcanvas.vercel.app/",
+  "status": "shipped",
+  "featured": false
+}

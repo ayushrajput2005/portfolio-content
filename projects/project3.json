@@ -1,0 +1,10 @@
+{
+  "id": "portfolio",
+  "title": "Personal Portfolio",
+  "description": "A modern developer portfolio built with a minimal futuristic design language, inspired by interactive studio-style websites. Features shader-driven backgrounds, smooth visual components, and responsive layouts to showcase projects, skills, and ongoing work.",
+  "tech": ["React", "JavaScript", "CSS", "GLSL", "Vite"],
+  "github": "https://github.com/ayushrajput2005/portfolio",
+  "live": "https://www.ayushrajput.space/",
+  "status": "shipped",
+  "featured": false
+}

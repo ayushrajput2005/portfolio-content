@@ -1,0 +1,10 @@
+{
+  "id": "credx",
+  "title": "CredX",
+  "description": "A modern frontend for a peer-to-peer lending platform focused on accessible financing for non-banking users. Designed with a crypto-inspired visual style influenced by Solana’s branding, featuring shader-based React backgrounds and a futuristic UI experience.",
+  "tech": ["React", "JavaScript", "CSS", "GLSL", "Vite"],
+  "github": "https://github.com/ayushrajput2005/Credx-Frontend",
+  "live": "https://credx-p2p.netlify.app/",
+  "status": "shipped",
+  "featured": true
+}

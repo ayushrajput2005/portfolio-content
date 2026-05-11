@@ -1,10 +1,22 @@
 {
-  "id": "demo-project-1",
-  "title": "Demo Backend System",
-  "description": "A demo backend application showcasing authentication, API design, and data handling. Built as a placeholder project for portfolio testing.",
-  "tech": ["Java", "Spring Boot", "MySQL", "JPA"],
-  "github": "https://github.com/demo-user/demo-backend",
-  "live": "https://demo-project-live.com",
-  "status": "shipped",
-  "featured": true
+  "id": "easychat",
+  "title": "EasyChat",
+  "description": "An in-progress real-time chat application focused on learning scalable backend communication systems using Java and Spring. Built around WebSocket-based messaging with support for private and group chats, authentication with Spring Security, persistent storage using JPA and MySQL, cloud media storage, and distributed event handling through Redis or RabbitMQ within a microservices-oriented architecture.",
+  "tech": [
+    "Java",
+    "Spring Boot",
+    "WebSockets",
+    "Spring Security",
+    "Spring Data JPA",
+    "MySQL",
+    "Redis",
+    "RabbitMQ",
+    "AWS S3",
+    "Docker",
+    "Microservices"
+  ],
+  "github": "https://github.com/ayushrajput2005",
+  "live": "",
+  "status": "in-progress",
+  "featured": false
 }

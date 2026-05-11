@@ -1,10 +1,19 @@
 {
-  "id": "demo-project-2",
-  "title": "Demo Backend System",
-  "description": "A demo backend application showcasing authentication, API design, and data handling. Built as a placeholder project for portfolio testing.",
-  "tech": ["Java", "Spring Boot", "MySQL", "JPA"],
-  "github": "https://github.com/demo-user/demo-backend",
-  "live": "https://demo-project-live.com",
+  "id": "hirehub",
+  "title": "HireHub",
+  "description": "A backend-focused job portal project built to learn REST API development and production-style backend architecture using Java and Spring Boot. Implements authentication and access control with Spring Security, persistent data handling with Spring Data JPA and PostgreSQL, media storage through Cloudinary, and containerized deployment using Docker.",
+  "tech": [
+    "Java",
+    "Spring Boot",
+    "Spring Security",
+    "Spring Data JPA",
+    "PostgreSQL",
+    "NeonDB",
+    "Cloudinary",
+    "Docker"
+  ],
+  "github": "https://github.com/ayushrajput2005/JobPortal-Spring",
+  "live": "https://hirehub-omega.vercel.app/",
   "status": "shipped",
   "featured": true
 }
