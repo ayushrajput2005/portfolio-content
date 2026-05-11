@@ -1,5 +1,11 @@
 {
-	"question 1" : "answer" , 
-	"question 2" : "answer" ,
-	"question 3" : "answer"
+  "What kind of work do you enjoy most?": "Mostly backend-heavy work — APIs, authentication, and application logic.",
+
+  "Can you build full applications?": "Yes. I mainly focus on backend, but I can build simple frontend interfaces when needed.",
+
+  "What technologies do you work with?": "Mostly Java, Spring Boot, SQL, JPA/Hibernate, Docker, and REST APIs.",
+
+  "What are you learning right now?": "System design, Docker, deployment workflows, and real-time systems.",
+
+  "Why does the portfolio look design-heavy if you're backend-focused?": "Because I still care about how things feel to use, even if most of my work happens behind the scenes."
 }
