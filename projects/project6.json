@@ -1,0 +1,22 @@
+{
+  "id": "easychat",
+  "title": "EasyChat",
+  "description": "A full-stack real-time one-to-one chat application built with Spring Boot and React. Features secure JWT authentication, WebSocket communication using STOMP, and an event-driven backend architecture for loosely coupled messaging and conversation workflows. Containerized with Docker, deployed on Render, and backed by NeonDB PostgreSQL.",
+  "tech": [
+    "Java",
+    "Spring Boot",
+    "Spring Security",
+    "Spring Data JPA",
+    "WebSockets",
+    "STOMP",
+    "JWT",
+    "PostgreSQL",
+    "NeonDB",
+    "Docker",
+    "React"
+  ],
+  "github": "https://github.com/ayushrajput2005/easychat",
+  "live": "https://easychat-mu.vercel.app/",
+  "status": "shipped",
+  "featured": true
+}
